@@ -1,1 +1,5 @@
-Configurations with vless, vmess and trojan protocols, along with MTProto and SOCKS5 Telegram proxies.
+Use NPV or V2rayNG for config sublinks(Android)
+Use Happ or V2box for config sublinks(Ios)
+Use V2rayN for config sublinks(Pc)
+
+Configs and proxies are updated.
