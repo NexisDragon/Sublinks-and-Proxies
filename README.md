@@ -1,8 +1,9 @@
-Use NPV or V2rayNG for config sublinks(Android)
+~ Use NPV or V2rayNG for config sublinks(Android)
 
-Use Happ or V2box for config sublinks(Ios)
+~ Use Happ or V2box for config sublinks(Ios)
 
-Use V2rayN for config sublinks(Pc)
+~ Use V2rayN for config sublinks(Pc)
 
 
-Configs and proxies are updated.
+
+* Configs and proxies are updated.       https://t.me/NexisDragon
